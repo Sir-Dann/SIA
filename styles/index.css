@@ -22,7 +22,7 @@ body{
     border-radius: 20px 0px 0px 20px;
 }
 .right-pane{
-    background-image: url(bg-logo.png);
+    background-image: url('bg-logo.png');
     background-repeat: no-repeat;
     background-position: top left;
     background-size: 160%;
